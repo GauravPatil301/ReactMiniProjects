@@ -1,3 +1,6 @@
+# React Project Screenshot
+![image](https://github.com/GauravPatil301/ReactMiniProjects/assets/102862547/98dd7d49-24d1-4174-9e91-f4b195ef2486)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
