@@ -33,7 +33,7 @@ const Body = () => {
             <form onSubmit={registeruser}>
                 <input type="text" placeholder='name' className='form-control' value={name} onChange={(e)=>{setname(e.target.value)}}/>
                 <input type="text" placeholder='username' className='form-control' value={username} onChange={(e)=>{setusername(e.target.value)}}/>
-                <input type="text" placeholder='password' className='form-control' value={password} onChange={(e)=>{setpassword(e.target.value)}}/>
+                <input type="password" placeholder='password' className='form-control' value={password} onChange={(e)=>{setpassword(e.target.value)}}/>
                 <input type="submit" className='btn btn-primary' value="SIGN UP"/>
 
             </form>
