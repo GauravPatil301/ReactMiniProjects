@@ -1,5 +1,11 @@
 # React + Vite
 
+# Live Link : https://bgcolorchangewithgaurav.netlify.app/
+
+# ScreenShot
+![image](https://github.com/GauravPatil301/ReactMiniProjects/assets/102862547/4913a574-0a14-4d02-9081-9649fab24537)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
